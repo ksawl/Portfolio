@@ -1,19 +1,16 @@
 # Portfolio
 
+_My name is Serhii Karavashkin, I am Frontend Developer. I have collected samples of my work here. I hope you like it)_
+
+---
+
 ## Contents
 
-0. [Overview](#Overview)
 1. [React](#React)
 2. [Express](#Express)
 3. [Vue](#Vue)
 4. [Tests](#Tests)
 5. [Layouts](#Layouts)
-
-## Overview
-
-My name is Serhii Karavashkin, I am Frontend Developer. I have collected samples of my work here. I hope you like it)
-
----
 
 ## React
 
