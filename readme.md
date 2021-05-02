@@ -1,11 +1,12 @@
+<link rel="stylesheet" type="text/css" media="all" href="./markdown.css" />
+
 # Portfolio
 
-> -- <cite>My name is Serhii Karavashkin, I am Frontend Developer. I have collected samples of my work here. I hope you like it)</cite>
+> *My name is Serhii Karavashkin, I am Frontend Developer. I have collected samples of my work here. I hope you like it)*
 
 ---
 
-> ## **Contents**
-> -----------
+## Contents
 
 1. [React](#React)
 2. [Express](#Express)
@@ -13,8 +14,9 @@
 4. [Tests](#Tests)
 5. [Layouts](#Layouts)
 
-> ## **React**
-> -----------
+---
+
+## React
 
 ### React Redux CRUD application
 
@@ -43,8 +45,7 @@
 
 ---
 
-> ## **Express**
-> -----------
+## Express
 
 ### Backend with Express + PosgreSQL + RESTfull API
 
@@ -63,8 +64,7 @@
 
 ---
 
-> ## **Vue**
-> -----------
+## Vue
 
 ### Vue test-task for Brighta
 
@@ -86,8 +86,7 @@
 
 ---
 
-> ## **Tests**
-> -----------
+## Tests
 
 ### Test task for Junior Frontend Developer
 
@@ -112,8 +111,7 @@
 
 ---
 
-> ## **Layouts**
-> -----------
+## Layouts
 
 ### Front for colorsoundshop.com
 
