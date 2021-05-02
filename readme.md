@@ -1,10 +1,11 @@
 # Portfolio
 
-_My name is Serhii Karavashkin, I am Frontend Developer. I have collected samples of my work here. I hope you like it)_
+> -- <cite>My name is Serhii Karavashkin, I am Frontend Developer. I have collected samples of my work here. I hope you like it)</cite>
 
 ---
 
-## Contents
+> ## **Contents**
+> -----------
 
 1. [React](#React)
 2. [Express](#Express)
@@ -12,7 +13,8 @@ _My name is Serhii Karavashkin, I am Frontend Developer. I have collected sample
 4. [Tests](#Tests)
 5. [Layouts](#Layouts)
 
-## React
+> ## **React**
+> -----------
 
 ### React Redux CRUD application
 
@@ -41,7 +43,8 @@ _My name is Serhii Karavashkin, I am Frontend Developer. I have collected sample
 
 ---
 
-## Express
+> ## **Express**
+> -----------
 
 ### Backend with Express + PosgreSQL + RESTfull API
 
@@ -60,7 +63,8 @@ _My name is Serhii Karavashkin, I am Frontend Developer. I have collected sample
 
 ---
 
-## Vue
+> ## **Vue**
+> -----------
 
 ### Vue test-task for Brighta
 
@@ -82,7 +86,8 @@ _My name is Serhii Karavashkin, I am Frontend Developer. I have collected sample
 
 ---
 
-## Tests
+> ## **Tests**
+> -----------
 
 ### Test task for Junior Frontend Developer
 
@@ -107,7 +112,8 @@ _My name is Serhii Karavashkin, I am Frontend Developer. I have collected sample
 
 ---
 
-## Layouts
+> ## **Layouts**
+> -----------
 
 ### Front for colorsoundshop.com
 
